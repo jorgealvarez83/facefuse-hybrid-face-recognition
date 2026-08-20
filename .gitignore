@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Model weights (published as GitHub release assets) ---
+models/*
+!models/.gitkeep
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# --- Face data: never commit biometric images ---
+data/gallery/*
+data/probe/*
+!data/gallery/.gitkeep
+!data/probe/.gitkeep
+
+# --- Generated artefacts ---
+outputs/
+runs/
+logs/
+*.log
+
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Editors / OS ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Notebooks ---
+.ipynb_checkpoints/

@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=7.4
+ruff>=0.6
+scikit-image>=0.21   # only for scripts/make_demo_assets.py
