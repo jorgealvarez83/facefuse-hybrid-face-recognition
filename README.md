@@ -112,7 +112,8 @@ with the LBP/HOG/fusion equations and references: **[docs/report.md](docs/report
 
 ## Install
 
-Requires Python 3.9+.
+Requires Python 3.9+ and **OpenCV 4.x** — the HOG descriptor the handcrafted
+branch uses was removed from OpenCV 5, so the dependency is pinned `<5`.
 
 ```bash
 git clone https://github.com/ahmedsayed1911/facefuse-hybrid-face-recognition.git
@@ -327,7 +328,7 @@ tests/        43 unit tests, no model weights or face images required
 | --- | --- |
 | Detection | Ultralytics YOLO11-L fine-tuned on WIDER FACE |
 | Embeddings | InsightFace `buffalo_l` (ArcFace, 512-d) via ONNX Runtime |
-| Handcrafted features | Local Binary Patterns + Histogram of Oriented Gradients (OpenCV/NumPy) |
+| Handcrafted features | Local Binary Patterns + Histogram of Oriented Gradients (OpenCV 4.x / NumPy) |
 | Enhancement | OpenCV bilateral filter |
 | Optimisation | custom real-valued genetic algorithm (NumPy) |
 | Metrics & plots | scikit-learn, matplotlib |
